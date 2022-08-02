@@ -6,7 +6,7 @@
 </div>
 
 ### :man_technologist: About Me :
-<div align="center">
+<div>
 I am a Mathematics MSc student at UBC! My major research interest is numerical analysis with machine learning.
   <div>
     - 🔭 I’m currently working on various project on application of Machine Learning in image     processing, fluid dynamics simulation and operator learning!
