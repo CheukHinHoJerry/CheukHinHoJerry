@@ -7,10 +7,16 @@
 
 ### :man_technologist: About Me :
 <div align="center">
-I am a MSc Student at UBC.
-- 🔭 I’m currently working on various project on application of Machine Learning in image processing, fluid dynamics simulation and operator learning!
-- 👯 I’m looking to collaborate on machine learning projects!
-- 📫 How to reach me: email me at cheukhinhojerry@gmail.com
+I am a Mathematics MSc student at UBC! My major research interest is numerical analysis with machine learning.
+  <div>
+    - 🔭 I’m currently working on various project on application of Machine Learning in image     processing, fluid dynamics simulation and operator learning!
+  </div>
+  <div>
+    - 👯 I’m looking to collaborate on machine learning projects!
+  </div>
+  <div>
+    - 📫 How to reach me: email me at cheukhinhojerry@gmail.com
+  </div>
 <div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
