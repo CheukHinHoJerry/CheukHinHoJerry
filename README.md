@@ -1,10 +1,9 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=CheukHinHoJerry&style=flat-square&color=blue" alt=""/>
 
-<!--
-**CheukHinHoJerry/CheukHinHoJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
