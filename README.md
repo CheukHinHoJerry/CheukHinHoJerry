@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=CheukHinHoJerry&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
