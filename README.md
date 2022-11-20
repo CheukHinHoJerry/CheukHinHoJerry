@@ -8,7 +8,7 @@
 <div>
 I am a MSc student at UBC! My major research interest is numerical analysis and machine learning.
   <div>
-    - 🔭 I’m currently working on various project on application of Machine Learning in image processing, fluid dynamics and operator learning, diving in the atomic simulation and approximation.
+    - 🔭 I’m currently working on various project on application of Machine Learning in image processing, fluid dynamics and operator learning, diving in the atomic simulation and approximation, and more general approximation theory.
   </div>
   <div>
     - 👯 I’m looking to collaborate on machine learning projects!
