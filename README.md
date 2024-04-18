@@ -6,12 +6,12 @@
 
 ### :man_technologist: About Me :
 <div>
-I am a MSc student at UBC! My major research interest is numerical analysis and machine learning.
+PhD student at The University of British Columbia.
   <div>
-    - 🔭 I’m currently working on various project on application of Machine Learning in image processing, fluid dynamics and operator learning, diving in the atomic simulation and approximation, and more general approximation theory.
+    - 🔭 Mathematician working on various project on application of machine Learning in atomistic modeling, particularlly with the the <a href="https://github.com/ACEsuit">Atomic Cluster Expansion (ACE)</a> framework and <a href="https://github.com/ACEsuit/mace">MACE</a>. Also work on a bit quantum chemistry and image processing.
   </div>
   <div>
-    - 👯 I’m looking to collaborate on machine learning projects!
+    - 👯 I’m looking to collaborate on machine learning projects, especially biochemistry, material science or any place that machine learning interatomic potentials may help.
   </div>
   <div>
     - 📫 How to reach me: email me at cheukhinhojerry@gmail.com
