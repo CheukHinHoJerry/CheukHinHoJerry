@@ -8,7 +8,7 @@
 <div>
 PhD student at The University of British Columbia.
   <div>
-    - 🔭 Mathematician working on various project on application of machine Learning in atomistic modeling, particularlly with the the <a href="https://github.com/ACEsuit">Atomic Cluster Expansion (ACE)</a> framework and <a href="https://github.com/ACEsuit/mace">MACE</a>. Also work on a bit quantum chemistry and image processing.
+    - 🔭 Mathematician working on various project on application of machine learning in atomistic modeling, particularlly with the the <a href="https://github.com/ACEsuit">Atomic Cluster Expansion (ACE)</a> framework and <a href="https://github.com/ACEsuit/mace">MACE</a>. Also work on a bit quantum chemistry and image processing.
   </div>
   <div>
     - 👯 I’m looking to collaborate on machine learning projects, especially biochemistry, material science or any place that machine learning interatomic potentials may help.
