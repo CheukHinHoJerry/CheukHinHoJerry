@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=CheukHinHoJerry&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprtimes.jp%2Fmain%2Fhtml%2Frd%2Fp%2F000000037.000104281.html&psig=AOvVaw2XOzpi3sXzv2k5ZzlHamHm&ust=1748099885806000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCPztfxuY0DFQAAAAAdAAAAABAn" width="300" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
